@@ -1,0 +1,134 @@
+[
+    {
+        "id": "a1b2c3d4",
+        "title": "Clean water for children",
+        "description": "Clean water for children is a fundamental right crucial for their health and well-being. Access to safe drinking water prevents waterborne diseases, promotes proper hygiene, and empowers children to thrive. Initiatives focused on providing clean water contribute to breaking the cycle of poverty, ensuring a foundation for a healthy and prosperous life.",
+        "pic": "https://i.ibb.co/sgZJjng/Health.png",
+        "price": 19.99,
+        "category": "Health",
+        "category_bg": "#0051ff33",
+        "card_bg": "#0051ff26",
+        "txt_color": "#0052FF"
+    },
+    {
+        "id": "e5f6g7h8",
+        "title": "Used Clothing Drive",
+        "description": "A Used Clothing Drive is a community effort where people donate gently used clothes to help those in need. It's a sustainable practice that repurposes garments and promotes solidarity within communities. By contributing to such drives, individuals play a part in creating a more compassionate and resource-sharing society, offering practical assistance to those facing economic challenges.",
+        "pic": "https://i.ibb.co/K5ycV2H/Clothing.png",
+        "price": 29.99,
+        "category": "Clothing",
+        "category_bg": "#79c23d33",
+        "card_bg": "#79c23d26",
+        "txt_color": "#79C23F"
+    },
+    {
+        "id": "i9j0k1l2",
+        "title": "Clean water for children",
+        "description": "Clean water for children is a fundamental right crucial for their health and well-being. Access to safe drinking water prevents waterborne diseases, promotes proper hygiene, and empowers children to thrive. Initiatives focused on providing clean water contribute to breaking the cycle of poverty, ensuring a foundation for a healthy and prosperous life.",
+        "pic": "https://i.ibb.co/sgZJjng/Health.png",
+        "price": 39.99,
+        "category": "Health",
+        "category_bg": "#0051ff33",
+        "card_bg": "#0051ff26",
+        "txt_color": "#0052FF"
+    },
+    {
+        "id": "m3n4o5p6",
+        "title": "Better Food for Everyone",
+        "description": "Better food for everyone is not just a goal but a pathway to improved health and well-being. It involves promoting access to nutritious and diverse food options, fostering healthier lifestyles, and addressing food insecurity. Initiatives aimed at achieving better food for everyone contribute to building stronger, more resilient communities by enhancing the overall quality of life and reducing the burden of diet-related illnesses.",
+        "pic": "https://i.ibb.co/zHrzTcg/Food.png",
+        "price": 49.99,
+        "category": "Food",
+        "category_bg": "#f8724933",
+        "card_bg": "#f8724926",
+        "txt_color": "#F87147"
+    },
+    {
+        "id": "q7r8s9t0",
+        "title": "Good education",
+        "description": "Quality education is a transformative force that extends beyond academics, fostering critical thinking, creativity, and values. It equips individuals with essential life skills, nurturing a lifelong passion for learning. More than just an accumulation of knowledge, good education shapes adaptable and empathetic individuals who contribute meaningfully to society.",
+        "pic": "https://i.ibb.co/vhV3HGX/Education.png",
+        "price": 59.99,
+        "category": "Education",
+        "category_bg": "#ff454b33",
+        "card_bg": "#ff454b26",
+        "txt_color": "#FF444A"
+    },
+    {
+        "id": "u1v2w3x4",
+        "title": "Better Food for Everyone",
+        "description": "Better food for everyone is not just a goal but a pathway to improved health and well-being. It involves promoting access to nutritious and diverse food options, fostering healthier lifestyles, and addressing food insecurity. Initiatives aimed at achieving better food for everyone contribute to building stronger, more resilient communities by enhancing the overall quality of life and reducing the burden of diet-related illnesses.",
+        "pic": "https://i.ibb.co/zHrzTcg/Food.png",
+        "price": 69.99,
+        "category": "Food",
+        "category_bg": "#f8724933",
+        "card_bg": "#f8724926",
+        "txt_color": "#F87147"
+    },
+    {
+        "id": "y5z6a7b8",
+        "title": "Clean water for children",
+        "description": "Clean water for children is a fundamental right crucial for their health and well-being. Access to safe drinking water prevents waterborne diseases, promotes proper hygiene, and empowers children to thrive. Initiatives focused on providing clean water contribute to breaking the cycle of poverty, ensuring a foundation for a healthy and prosperous life.",
+        "pic": "https://i.ibb.co/sgZJjng/Health.png",
+        "price": 79.99,
+        "category": "Health",
+        "category_bg": "#0051ff33",
+        "card_bg": "#0051ff26",
+        "txt_color": "#0052FF"
+    },
+    {
+        "id": "c9d0e1f2",
+        "title": "Good education",
+        "description": "Quality education is a transformative force that extends beyond academics, fostering critical thinking, creativity, and values. It equips individuals with essential life skills, nurturing a lifelong passion for learning. More than just an accumulation of knowledge, good education shapes adaptable and empathetic individuals who contribute meaningfully to society.",
+        "pic": "https://i.ibb.co/vhV3HGX/Education.png",
+        "price": 89.99,
+        "category": "Education",
+        "category_bg": "#ff454b33",
+        "card_bg": "#ff454b26",
+        "txt_color": "#FF444A"
+    },
+    {
+        "id": "g3h4i5j6",
+        "title": "Used Clothing Drive",
+        "description": "A Used Clothing Drive is a community effort where people donate gently used clothes to help those in need. It's a sustainable practice that repurposes garments and promotes solidarity within communities. By contributing to such drives, individuals play a part in creating a more compassionate and resource-sharing society, offering practical assistance to those facing economic challenges.",
+        "pic": "https://i.ibb.co/K5ycV2H/Clothing.png",
+        "price": 99.99,
+        "category": "Clothing",
+        "category_bg": "#79c23d33",
+        "card_bg": "#79c23d26",
+        "txt_color": "#79C23F"
+    },
+    {
+        "id": "k7l8m9n0",
+        "title": "Better Food for Everyone",
+        "description": "Better food for everyone is not just a goal but a pathway to improved health and well-being. It involves promoting access to nutritious and diverse food options, fostering healthier lifestyles, and addressing food insecurity. Initiatives aimed at achieving better food for everyone contribute to building stronger, more resilient communities by enhancing the overall quality of life and reducing the burden of diet-related illnesses.",
+        "pic": "https://i.ibb.co/zHrzTcg/Food.png",
+        "price": 109.99,
+        "category": "Food",
+        "category_bg": "#f8724933",
+        "card_bg": "#f8724926",
+        "txt_color": "#F87147"
+    },
+    {
+        "id": "o1p2q3r4",
+        "title": "Good education",
+        "description": "Quality education is a transformative force that extends beyond academics, fostering critical thinking, creativity, and values. It equips individuals with essential life skills, nurturing a lifelong passion for learning. More than just an accumulation of knowledge, good education shapes adaptable and empathetic individuals who contribute meaningfully to society.",
+        "pic": "https://i.ibb.co/vhV3HGX/Education.png",
+        "price": 119.99,
+        "category": "Education",
+        "category_bg": "#ff454b33",
+        "card_bg": "#ff454b26",
+        "txt_color": "#FF444A"
+    },
+    {
+        "id": "s5t6u7v8",
+        "title": "Used Clothing Drive",
+        "description": "A Used Clothing Drive is a community effort where people donate gently used clothes to help those in need. It's a sustainable practice that repurposes garments and promotes solidarity within communities. By contributing to such drives, individuals play a part in creating a more compassionate and resource-sharing society, offering practical assistance to those facing economic challenges.",
+        "pic": "https://i.ibb.co/K5ycV2H/Clothing.png",
+        "price": 129.99,
+        "category": "Clothing",
+        "category_bg": "#79c23d33",
+        "card_bg": "#79c23d26",
+        "txt_color": "#79C23F"
+    }
+]
